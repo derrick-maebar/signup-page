@@ -1,0 +1,27 @@
+nav {
+background-color: black;
+display: block;
+
+}
+
+nav a{
+text-align: center;
+  text-decoration: white;
+  float: left;
+align-items: center;
+padding-left: 15px;
+}
+ nav ul{
+list-style: none;
+padding-left: 25px;
+padding-right: 15px;
+padding-bottom: 30px;
+padding-top: 15px;
+text-decoration: white;
+ }
+
+ h1{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: #14045d;
+    font-size: 3em;
+ }
